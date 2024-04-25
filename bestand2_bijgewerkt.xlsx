@@ -1,0 +1,1446 @@
+Data.full,Variable explained,"Toewijzing (0= niet meenemen, 1=input, 2=output, 3=onbekend)",Raw,Variable explained.1,"Toewijzing (0= niet meenemen, 1=input, 2=output)",beide,Variable explained.2,"Toewijzing (0= niet meenemen, 1=input, 2=output).1",Data.full1,Raw1,beide1
+invasiefdim,,,Kweek_uitkomst_5_1#candida albicans,,,doodsoorzaak_anders,,2.0,,,"Anders, namelijk"
+artmesent,,,Switch_ABtype_4#metronidazol,,,gender,,1.0,,,Gender
+OPMERKINGEN,,,Perop_bile_other,,,Adj_scenario,,,,,
+MOF.later,,,Kweek_uitkomst_4_1#anders,,,Endpoint_OF_ren_discussed,,,,,
+Som.PORSCH,,,Periop_AB#cefazoline,,,drain_aantal,,,,,Hoeveel drains?
+bildrain,,,AB_P5_indication_other,,,operative_bloodloss,,,,,"Intraoperative blood loss, ml"
+cvvh,,,Herstart_ABtype_1_1#cefazoline,,,ICUdatont,,,,,Date of (last) ICU discharge
+transfusie,,,Kweek_uitkomst_4_1#enterobacter cloacae,,,Adjudication_Committee,,,,,
+stentcover,,,Date_switch_3_1_1,,,PPH,,,,,Postpancreatectomy hemorrhage (PPH)
+ligahepato,,,PostopAB_type#nitrofurantoïne,,,Adj_form,,,,,
+pO2.days,,,Switch_ABtype_3_1_1#cefazoline,,,Age_surgery,,,,,Age at time of surgery
+bl.endosc.later.onset,,,Kweek_uitkomst_6#enterobacter cloacae,,,GElekdatum,,,,,Datum diagnose GE lek
+paraortaal,,,Kweek_uitkomst_7_1#candida kefyr,,,aantal_PO_scans,,,,,Number of postoperative abdominal CT scans
+stadptpanc,,,Switch_ABtype#anders,,,PPHdatum,,,,,
+commyo,,,sandostatine_toediening#peroperatief,,,gallekdatum,,,,,Datum diagnose bile leak
+radiolo,,,Switch_ABtype_3_1#clindamycine,,,aantal_invasive_intervent,,,,,Number of invasive interventions
+Som.Ren,,,ABswitch_other_4_1_1,,,fistel2016datum,,,,,Datum diagnose
+bl.angio.later.onset,,,Kweek_uitkomst_3_1#staphylococcus aureus,,,Endpoint_OF_circ_discussed,,,,,
+stadptpapil,,,Kweek_uitkomst_1#klebsiella oxytoca,,,sandostatine,,,,,Sandostatine analogen?
+datdrainverw,,,Herstart_ABtype_3_1#vancomycine,,,ICUdatopn,,,,,Date of (first) ICU admission
+SCENARIO.Jasmijn,,,Kweek_uitkomst_3_1#hemolytische streptokokken groep B,,,End_FU,,,,,
+exlapzbypass,,,Herstart_ABtype_1_1#cotrimoxazol,,,NO_acute_pancreatitis_datum,,,,,Datum diagnose acute pancreatitis
+bl.relap.diagn.later,,,Indication_switch_3,,,datopn,,,,,Date of hospital admission
+neoadjdat,,,AB_herstart_3_1_1,,,AB_remarks,,,,,
+bleeding.intervention3,,,Indication_switch_4_1_1,,,Data_check_date,,,,,
+asascore,,,Herstart_ABtype_1_1#gentamicine,,,Discussed_HvS,,,,,
+metaperiton,,,Kweek_uitkomst#morganella morganii,,,removal_abd_drain_dat,,,,,Date of removal last abdominal drain
+pneumonie,,,Kweek_uitkomst_8_1#proteus mirabilis,,,Endpoint_OF_pulm_discussed,,,,,
+differentiatie,,,Herstart_ABtype_4_1_1#ceftriaxon,,,neoadj_anders,,,,,"Anders, namelijk"
+risico,,,Date_kweek_5_1,,,removal_perok_drain_dat,,,,,Date of removal peroperatively placed drain
+adjuvantstart,,,Kweek_uitkomst_3_1#anders,,,Data_check,,,,,
+nier,,,Kweek_uitkomst_8_1#candida kefyr,,,adjdat,,,,,Date start adjuvant treatment
+lever,,,Switch_ABtype_1#meropenem,,,adjuvant_treatment,,,,,Adjuvant treatment
+bl.angio.nr,,,Kweek_uitkomst_7#pseudomonas auruginosa,,,implementphase,,,,,Implementation phase
+pO2.later.onset,,,Switch_ABtype_3_1#tazocin (pip/tazo),,,overleden,,,,,Overleden
+stadptpanc2018,,,Kweek_uitkomst_2_1#hafnia alvei,,,chylus2016_datum,,,,,Datum diagnose chyle leak
+reintvdat,,,Herstart_ABtype_3_1_1#fluconazol,,,Discussed_adjudication_committee,,,,,
+metaafstand,,,Kweek_uitkomst_2_1#haemophilus influenzae,,,typok,,,,,Type of resection
+companders,,,AB_stop_3_1,,,heropn_aant,,,,,Aantal heropnames
+gewverlies,,,Herstart_ABtype_2_1#ceftriaxon,,,ICUopname,,,,,ICU admission
+compreintv,,,Kweek_uitkomst_8_1_1#klebsiella pneumoniae,,,Endpoint_death_discussed,,,,,
+B3.Eindpunt.voorkomen.PORSCH,,,Kweek_uitkomst_7#hemolytische streptokokken groep B,,,NO_acute_pancreatitis,,,,,New-onset acute pancreatitis
+B3.Circulatoir.falen,,,Kweek_uitkomst_5#escherichia coli,,,doodsoorzaak,,,,,Doodsoorzaak
+responshtrg,,,Switch_ABtype_2_1#amoxicilline,,,Discussed_specification,,,,,
+beeldv,,,Switch_ABtype_4_1_1#augmentin,,,indexresection_date,,,,,Date pancreatic resection
+B2.Bloeding,,,Kweek_uitkomst#haemophilus influenzae,,,GElek,,,,,Gastroenterostomy leakage?
+venapm,,,Kweek_uitkomst_4_1#morganella morganii,,,Data_check_remarks,,,,,
+MOF.days,,,Switch_ABtype_3_1#gentamicine,,,Year_birth,,,,,Year of birth
+B2.Eindpunt.gerel..pancreasfistel,,,Kweek_uitkomst_1_1#streptococcus anginosus,,,PPH_intervention_bleeding,,,,,Intervention for bleeding
+typeneoadjuvant,,,Kweek_uitkomst_8_1_1#proteus mirabilis,,,heropname_binnen_90,,,,,Heropname binnen 90 dagen na pancreasresectie
+contactah,,,Date_kweek_2_1_1,,,Opmerking,,,,,
+metaperito,,,Herstart_ABtype_4#azitromycine,,,Endpoint_bleeding_discussed,,,,,
+resanders,,,Kweek_uitkomst_2_1#morganella morganii,,,operative_time,,,,,"Operative time, minutes"
+neoadjuvant.x,,,Kweek_uitkomst_3#candida tropicalis,,,Data_check_name,,,,,
+B3.Plenair.bespreken,,,Extra_herstart_2_1_1,,,Adjudication_Committee_specification,,,,,
+milt,,,Kweek_uitkomst_anders,,,typok_anders,,,,,"Anders, namelijk"
+compl,,,Kweek_uitkomst_8#enterococcus faecalis,,,,,,,,Voedingssondeplaatsing
+geenonbekend,,,Kweek_uitkomst_5_1_1#anders,,,,,,,,Voedingssondeplaatsing
+reintaard,,,Extra_switch_3_1_1,,,,,,,,Voedingssondeplaatsing
+diameter,,,Switch_ABtype#clindamycine,,,,,,,,Voedingssondeplaatsing
+geenanders,,,Kweek_uitkomst_1#citrobacter freundii,,,,,,,,Voedingssondeplaatsing
+dunnedarm,,,PostopAB_type#clindamycine,,,,,,,,Voedingssondeplaatsing
+comlong,,,Herstart_ABtype_3_1#ceftriaxon,,,,,,,,Voedingssondeplaatsing
+Discrepantie.Bloeding,,,ABswitch_other_4,,,,,,,,Voedingssondeplaatsing
+truncuscoel,,,Switch_ABtype_2_1_1#cefazoline,,,,,,,,Voedingssondeplaatsing
+trunccoel,,,sandostatine_toediening#postoperatief,,,,,,,,Voedingssondeplaatsing
+compperforatie,,,Kweek_uitkomst_8#enterococcus faecium,,,,,,,,Voedingssondeplaatsing
+Som.Circ,,,StopAB_switch_4_1_1,,,,,,,,Voedingssondeplaatsing
+typesom,,,Herstart_ABtype_4_1#cotrimoxazol,,,,,,,,Voedingssondeplaatsing
+stenoseams,,,Herstart_ABtype_3_1_1#azitromycine,,,,,,,,Voedingssondeplaatsing
+coelblok,,,PostopAB_type#ceftriaxon,,,,,,,,Voedingssondeplaatsing
+intube.later,,,Herstart_ABtype_2#ciprofloxacine,,,,,,,,Voedingssondeplaatsing
+Aantekeningen.AC,,,Herstart_ABtype_1#azitromycine,,,,,,,,Voedingssondeplaatsing
+ca199,,,Kweek_uitkomst_8#candida kefyr,,,,,,,,Voedingssondeplaatsing
+lokalisatie,,,Herstart_ABtype_4_1_1#cotrimoxazol,,,,,,,,Voedingssondeplaatsing
+endpoint.raw.HDondersteuning,,,Herstart_ABtype_4_1_1#metronidazol,,,,,,,,Voedingssondeplaatsing
+Discrepantie.over.all,,,Kweek_uitkomst_4_1#escherichia coli,,,,,,,,Voedingssondeplaatsing
+resectie,,,ABherstart_other_2,,,,,,,,Voedingssondeplaatsing
+dcholedo,,,Switch_ABtype_2_1_1#metronidazol,,,,,,,,Voedingssondeplaatsing
+fistel2016.x,,,Kweek_uitkomst_7_1#citrobacter freundii,,,,,,,,Voedingssondeplaatsing
+endpoint.raw,,,Kweek_uitkomst_7_1#pseudomonas auruginosa,,,,,,,,Voedingssondeplaatsing
+SOF,,,Date_switch_2,,,,,,,,Voedingssondeplaatsing
+intube.days,,,Switch_ABtype_4_1#anders,,,,,,,,Voedingssondeplaatsing
+structuren,,,Extra_herstart_1_1,,,,,,,,Voedingssondeplaatsing
+diagroot,,,Kweek_uitkomst_7_1_1#escherichia coli,,,,,,,,Voedingssondeplaatsing
+mesocolont,,,Switch_ABtype_2_1#fluconazol,,,,,,,,Voedingssondeplaatsing
+lymfade,,,Switch_ABtype_1_1#cefazoline,,,,,,,,Voedingssondeplaatsing
+comcopy,,,Kweek_uitkomst_5#candida albicans,,,,,,,,Voedingssondeplaatsing
+circumcontact,,,Kweek_afname_2_1,,,,,,,,Voedingssondeplaatsing
+anastmaagdarm,,,Kweek_uitkomst#anders,,,,,,,,Voedingssondeplaatsing
+heropname,,,Switch_ABtype_2#tazocin (pip/tazo),,,,,,,,Voedingssondeplaatsing
+kreat.days,,,Kweek_uitkomst_3#candida albicans,,,,,,,,Voedingssondeplaatsing
+SOF.later,,,AB_P1_start,,,,,,,,Voedingssondeplaatsing
+numlym,,,Switch_ABtype_3_1#fluconazol,,,,,,,,Voedingssondeplaatsing
+staplerz,,,Switch_ABtype_1#amoxicilline,,,,,,,,Voedingssondeplaatsing
+cea,,,Kweek_uitkomst_3_1#klebsiella oxytoca,,,,,,,,Voedingssondeplaatsing
+B1.Respiratoir.falen,,,Perop_bile_results#hemolytische streptokokken groep B,,,,,,,,Voedingssondeplaatsing
+overleden.na3,,,Herstart_ABtype_4_1#tazocin (pip/tazo),,,,,,,,Voedingssondeplaatsing
+radicaliteit,,,Herstart_ABtype_4_1_1#clindamycine,,,,,,,,Voedingssondeplaatsing
+neoadjuvant.y,,,PeriopAB_prolonged_1#moeizame/langdurige OK,,,,,,,,Voedingssondeplaatsing
+biliarydrainage,,,AB_indicatie3,,,,,,,,Voedingssondeplaatsing
+duurok,,,Herstart_ABtype_1_1#meropenem,,,,,,,,Voedingssondeplaatsing
+bl.relap.later,,,Herstart_ABtype_3#cefuroxim,,,,,,,,Voedingssondeplaatsing
+Vragen.opmerkingen.B1,,,Switch_ABtype_3_1#ciprofloxacine,,,,,,,,Voedingssondeplaatsing
+adjudat,,,Date_kweek_6_1_1,,,,,,,,Voedingssondeplaatsing
+comlever,,,Kweek_uitkomst_6_1#klebsiella oxytoca,,,,,,,,Voedingssondeplaatsing
+comppancreatitis,,,Kweek_soort_7_1,,,,,,,,Voedingssondeplaatsing
+anastomose,,,Kweek_uitkomst_5_1#staphylococcus aureus,,,,,,,,Voedingssondeplaatsing
+histdiagnpost,,,AB_stop,,,,,,,,Voedingssondeplaatsing
+datok,,,PostopAB_type#meropenem,,,,,,,,Voedingssondeplaatsing
+laparoscopie,,,Date_kweek_7_1_1,,,,,,,,Voedingssondeplaatsing
+X.1,,,Kweek_uitkomst_8_1_1#hemolytische streptokokken groep B,,,,,,,,Voedingssondeplaatsing
+Corrigeren.Hvs,,,Kweek_uitkomst#enterococcus faecalis,,,,,,,,Voedingssondeplaatsing
+betranders,,,AB_P1_indication,,,,,,,,Voedingssondeplaatsing
+invasive_interv,,,Switch_ABtype_4#augmentin,,,,,,,,Voedingssondeplaatsing
+comperif,,,Perop_bile_results_1#hemolytische streptokokken groep B,,,,,,,,Voedingssondeplaatsing
+bleeding.intervention,,,Perop_bile_results_1#enterococcus faecium,,,,,,,,Voedingssondeplaatsing
+diamdp,,,Kweek_uitkomst_6_1_1#haemophilus influenzae,,,,,,,,Voedingssondeplaatsing
+DEATH,,,Switch_ABtype#gentamicine,,,,,,,,Voedingssondeplaatsing
+typestent,,,Indication_switch_2_1,,,,,,,,Voedingssondeplaatsing
+Discrepantie.Circ,,,Switch_ABtype_1_1#anders,,,,,,,,Voedingssondeplaatsing
+betronbekend,,,Switch_ABtype_3_1_1#azitromycine,,,,,,,,Voedingssondeplaatsing
+arthepaberrant,,,Herstart_ABtype_3#anders,,,,,,,,Voedingssondeplaatsing
+comhiv,,,Kweek_afname,,,,,,,,Voedingssondeplaatsing
+jaarok,,,Kweek_uitkomst_5_1_1#staphylococcus aureus,,,,,,,,Voedingssondeplaatsing
+time,,,Kweek_uitkomst_3#anders,,,,,,,,Voedingssondeplaatsing
+MOF,,,Herstart_ABtype_1_1#flucloxacilline,,,,,,,,Voedingssondeplaatsing
+beelddat,,,Herstart_ABtype_4_1_1#ciprofloxacine,,,,,,,,Voedingssondeplaatsing
+Som.Plenair,,,Kweek_uitkomst_4_1#klebsiella oxytoca,,,,,,,,Voedingssondeplaatsing
+status,,,Kweek_uitkomst_6_1#serratia marscesens,,,,,,,,Voedingssondeplaatsing
+arthepcomprop,,,Herstart_ABtype_4_1#vancomycine,,,,,,,,Voedingssondeplaatsing
+netpost,,,Periop_AB#metronidazol,,,,,,,,Voedingssondeplaatsing
+aspect,,,Kweek_uitkomst_2_1#hemolytische streptokokken groep B,,,,,,,,Voedingssondeplaatsing
+B1.Eindpunt.voorkomen.PORSCH,,,Kweek_uitkomst_8_1_1#geen groei,,,,,,,,Voedingssondeplaatsing
+compancr,,,Herstart_ABtype_1_1#azitromycine,,,,,,,,Voedingssondeplaatsing
+commal4,,,Kweek_uitkomst_8_1_1#klebsiella oxytoca,,,,,,,,Voedingssondeplaatsing
+cythistdat,,,Cal_datum_overlijden,,,,,,,Ligt datum overlijden na opnamedatum?,Voedingssondeplaatsing
+neorecist,,,Herstart_ABtype_4_1#anders,,,,,,,,Voedingssondeplaatsing
+Discrepantie.Ren,,,Kweek_uitkomst_7_1_1#pseudomonas auruginosa,,,,,,,,Voedingssondeplaatsing
+mri,,,Extra_switch_2,,,,,,,,Voedingssondeplaatsing
+upn,,,Switch_ABtype_2#meropenem,,,,,,,,Voedingssondeplaatsing
+bl.relap.nr,,,Switch_ABtype_4_1#flucloxacilline,,,,,,,,Voedingssondeplaatsing
+colont,,,Herstart_ABtype_4_1_1#nitrofurantoïne,,,,,,,,Voedingssondeplaatsing
+B2.Circulatoir.falen,,,Indicatie_herstart_3,,,,,,,,Voedingssondeplaatsing
+hemoglobine,,,Herstart_ABtype_4#gentamicine,,,,,,,,Voedingssondeplaatsing
+ductus.verwijd,,,Kweek_uitkomst_5_1#geen groei,,,,,,,,Voedingssondeplaatsing
+SOF.days,,,Kweek_uitkomst_3_1#morganella morganii,,,,,,,,Voedingssondeplaatsing
+bilirubine,,,Switch_ABtype_3_1_1#vancomycine,,,,,,,,Voedingssondeplaatsing
+betrcolon,,,PostopAB_type#augmentin,,,,,,,,Voedingssondeplaatsing
+kreat,,,AB_switch,,,,,,,,Voedingssondeplaatsing
+comgiulcus,,,PostopAB_type_1_1#tazocin (pip/tazo),,,,,,,,Voedingssondeplaatsing
+metalev,,,Date_kweek_8_1_1,,,,,,,,Voedingssondeplaatsing
+commal1,,,Kweek_uitkomst_anders_6,,,,,,,,Voedingssondeplaatsing
+B1.Renaal.falen,,,ABswitch_other_3_1_1,,,,,,,,Voedingssondeplaatsing
+Al.een.ander.eindpunt.,,,Kweek_uitkomst_6_1#escherichia coli,,,,,,,,Voedingssondeplaatsing
+stadptdistaal2019,,,Kweek_uitkomst_4_1_1#enterococcus faecium,,,,,,,,Voedingssondeplaatsing
+Extra.info.nodig,,,Kweek_uitkomst_2_1#geen groei,,,,,,,,Voedingssondeplaatsing
+staplerm,,,Kweek_uitkomst_3_1_1#citrobacter freundii,,,,,,,,Voedingssondeplaatsing
+B2.Renaal.falen,,,datont,,,,,,,Date of discharge from hospital,Voedingssondeplaatsing
+endpoint.raw.bleed2,,,Kweek_uitkomst_4_1_1#enterobacter cloacae,,,,,,,,Voedingssondeplaatsing
+voedjeju,,,Herstart_ABtype_4_1_1#gentamicine,,,,,,,,Voedingssondeplaatsing
+stadptduodenum2019,,,Herstart_ABtype_4#augmentin,,,,,,,,Voedingssondeplaatsing
+comdiam,,,Focus_indicatie2,,,,,,,,Voedingssondeplaatsing
+colonsegm,,,Kweek_uitkomst_7_1#candida albicans,,,,,,,,Voedingssondeplaatsing
+pO2,,,Kweek_uitkomst_8_1#hemolytische streptokokken groep B,,,,,,,,Voedingssondeplaatsing
+drain.x,,,Herstart_ABtype_2_1_1#ciprofloxacine,,,,,,,,Voedingssondeplaatsing
+cythist,,,Heropn2_ontslagbrief,,,,,,,ontslagbrief 2e heropname,Voedingssondeplaatsing
+weefsellijm,,,Kweek_uitkomst_5_1#serratia marscesens,,,,,,,,Voedingssondeplaatsing
+comparalys,,,Periop_AB_1#anders,,,,,,,,Voedingssondeplaatsing
+fistel,,,Kweek_uitkomst_7_1_1#candida tropicalis,,,,,,,,Voedingssondeplaatsing
+diffnet,,,Indicatie_herstart_2_1,,,,,,,,Voedingssondeplaatsing
+bloeding_YN,,,Perop_bile_other_1,,,,,,,,Voedingssondeplaatsing
+X.x,,,Kweek_uitkomst_7#candida glabrata,,,,,,,,Voedingssondeplaatsing
+Alleen.discrepantie.over.relatie.fistel,,,Kweek_uitkomst_8#enterobacter cloacae,,,,,,,,Voedingssondeplaatsing
+time.to.death,,,Switch_ABtype_2_1#metronidazol,,,,,,,,Voedingssondeplaatsing
+OF.later.noHypotens,,,Extra_switch_1,,,,,,,,Voedingssondeplaatsing
+gallek.y,,,Kweek_uitkomst_3#serratia marscesens,,,,,,,,Voedingssondeplaatsing
+commal2,,,Switch_ABtype_1_1#amoxicilline,,,,,,,,Voedingssondeplaatsing
+metalong,,,Kweek_uitkomst_6_1#enterococcus faecium,,,,,,,,Voedingssondeplaatsing
+reintvanaest,,,Kweek_uitkomst_6_1#staphylococcus aureus,,,,,,,,Voedingssondeplaatsing
+resecmiltint,,,Kweek_uitkomst_4#staphylococcus aureus,,,,,,,,Voedingssondeplaatsing
+bl.endosc.nr,,,gallek,,,,,,,Postoperative bile leakage,Voedingssondeplaatsing
+anadetail,,,Date_kweek_1_1,,,,,,,,Voedingssondeplaatsing
+bloedverlies.norm,,,Kweek_uitkomst_5#proteus mirabilis,,,,,,,,Voedingssondeplaatsing
+Discrepantie.Resp,,,Herstart_ABtype_2_1_1#nitrofurantoïne,,,,,,,,Voedingssondeplaatsing
+bl.endosc.diagn.later,,,Perop_bile_results_1#haemophilus influenzae,,,,,,,,Voedingssondeplaatsing
+Discrepantie.POPF,,,PostopAB_type#ciprofloxacine,,,,,,,,Voedingssondeplaatsing
+betrtrcoel,,,AB_indicatie2,,,,,,,,Voedingssondeplaatsing
+trcoel,,,AB_herstart_4,,,,,,,,Voedingssondeplaatsing
+resecanders,,,Herstart_ABtype_1_1#amoxicilline,,,,,,,,Voedingssondeplaatsing
+beeldconcl,,,Herstart_ABtype_2#nitrofurantoïne,,,,,,,,Voedingssondeplaatsing
+endoscop,,,Switch_ABtype_3_1#cefuroxim,,,,,,,,Voedingssondeplaatsing
+intube,,,Kweek_uitkomst_2#citrobacter freundii,,,,,,,,Voedingssondeplaatsing
+vet,,,Switch_ABtype_3_1_1#gentamicine,,,,,,,,Voedingssondeplaatsing
+typeadjuvant,,,Stop_AB_1,,,,,,,,Voedingssondeplaatsing
+exploratie,,,Kweek_uitkomst#geen groei,,,,,,,,Voedingssondeplaatsing
+redenoverlijden,,,Switch_ABtype_3#nitrofurantoïne,,,,,,,,Voedingssondeplaatsing
+comorbiditeiten_uri,,,Cal_opn_ontslag_ICU,,,,,,,Ligt de ontslagdatum ICU voor de opnamedatum ICU?,Voedingssondeplaatsing
+cvvh.days,,,Kweek_uitkomst_8#geen groei,,,,,,,,Voedingssondeplaatsing
+lapexplor,,,Kweek_uitkomst_4#morganella morganii,,,,,,,,Voedingssondeplaatsing
+resecveneus,,,Kweek_uitkomst_7#haemophilus influenzae,,,,,,,,Voedingssondeplaatsing
+verover,,,Kweek_uitkomst_3#escherichia coli,,,,,,,,Voedingssondeplaatsing
+pO2.later,,,Kweek_uitkomst_8#haemophilus influenzae,,,,,,,,Voedingssondeplaatsing
+stenosevp,,,StopAB_switch_2,,,,,,,,Voedingssondeplaatsing
+bloedverlies,,,PostopAB_indication#Kliniek,,,,,,,,Voedingssondeplaatsing
+SOF_MOF,,,Extra_switch_4,,,,,,,,Voedingssondeplaatsing
+B1.Eindpunt.gerel..pancreasfistel.,,,Kweek_uitkomst_6_1#klebsiella pneumoniae,,,,,,,,Voedingssondeplaatsing
+ENDPOINT1,,,Switch_ABtype_2_1_1#anders,,,,,,,,Voedingssondeplaatsing
+lengte,,,Extra_ABstart,,,,,,,,Voedingssondeplaatsing
+X.y,,,Switch_ABtype_3_1_1#amoxicilline,,,,,,,,Voedingssondeplaatsing
+reoper,,,Site Abbreviation,,,,,,,,Voedingssondeplaatsing
+metastasen,,,AB_stop_4,,,,,,,,Voedingssondeplaatsing
+datovl.x,,,heropn1_ontslagbrief,,,,,,,Ontslagbrief 1e heropname,Voedingssondeplaatsing
+hypotens,,,PPH_other_origin_bleeding_spec,,,,,,,"Indien other, dan specify",Voedingssondeplaatsing
+gewperiode,,,Kweek_uitkomst_5_1_1#enterococcus faecalis,,,,,,,,Voedingssondeplaatsing
+hypotens.later.onset,,,Kweek_uitkomst_3_1_1#klebsiella pneumoniae,,,,,,,,Voedingssondeplaatsing
+onderbinden,,,Kweek_uitkomst_6_1#proteus mirabilis,,,,,,,,Voedingssondeplaatsing
+hepatica,,,Switch_ABtype_4_1_1#tazocin (pip/tazo),,,,,,,,Voedingssondeplaatsing
+compdrain,,,Kweek_soort_2,,,,,,,,Voedingssondeplaatsing
+bildianastomose,,,Kweek_soort_3,,,,,,,,Voedingssondeplaatsing
+diameterpost,,,Kweek_uitkomst_3_1#candida albicans,,,,,,,,Voedingssondeplaatsing
+Discrepantie.PORSCH,,,PostopAB_other_1_1,,,,,,,,Voedingssondeplaatsing
+mural,,,Kweek_uitkomst_4_1_1#staphylococcus aureus,,,,,,,,Voedingssondeplaatsing
+datovl.y,,,Kweek_uitkomst_7_1_1#klebsiella oxytoca,,,,,,,,Voedingssondeplaatsing
+histdiagnose,,,AB_P4_stop,,,,,,,,Voedingssondeplaatsing
+bl.relap,,,Herstart_ABtype_1#fluconazol,,,,,,,,Voedingssondeplaatsing
+resecaanv,,,PostopAB_type_1_1#cefuroxim,,,,,,,,Voedingssondeplaatsing
+amesen,,,Kweek_uitkomst_5_1_1#enterobacter cloacae,,,,,,,,Voedingssondeplaatsing
+bloeding,,,Kweek_uitkomst_2_1_1#candida tropicalis,,,,,,,,Voedingssondeplaatsing
+commal3,,,Kweek_uitkomst_2#serratia marscesens,,,,,,,,Voedingssondeplaatsing
+betrvcava,,,Switch_ABtype#ciprofloxacine,,,,,,,,Voedingssondeplaatsing
+maagresec,,,Herstart_ABtype#tazocin (pip/tazo),,,,,,,,Voedingssondeplaatsing
+ipmnpost,,,chylus2016,,,,,,,Postoperative chyle leak,Voedingssondeplaatsing
+bleeding.intervention2,,,Kweek_uitkomst_2_1#anders,,,,,,,,Voedingssondeplaatsing
+B3.Bloeding,,,Herstart_ABtype_4_1#cefazoline,,,,,,,,Voedingssondeplaatsing
+datont.y,,,heropndatum,,,,,,,1e Readmission admission date,Voedingssondeplaatsing
+chylus2016.x,,,Herstart_ABtype_3#meropenem,,,,,,,,Voedingssondeplaatsing
+betrvporta,,,Herstart_ABtype_2_1#nitrofurantoïne,,,,,,,,Voedingssondeplaatsing
+bl.relap.later.onset,,,AB_stop_3,,,,,,,,Voedingssondeplaatsing
+octreo,,,Kweek_uitkomst#candida albicans,,,,,,,,Voedingssondeplaatsing
+mesenteriaal,,,PostopAB_type#amoxicilline,,,,,,,,Voedingssondeplaatsing
+fistel2016.y,,,Switch_ABtype_2_1#augmentin,,,,,,,,Voedingssondeplaatsing
+metaoverig,,,AB_herstart_2_1_1,,,,,,,,Voedingssondeplaatsing
+reggroep,,,Herstart_ABtype_2_1#amoxicilline,,,,,,,,Voedingssondeplaatsing
+verdikt,,,Kweek_uitkomst_4_1_1#serratia marscesens,,,,,,,,Voedingssondeplaatsing
+bl.angio.buikwand,,,Perop_bile_results#streptococcus anginosus,,,,,,,,Voedingssondeplaatsing
+invasief,,,Kweek_uitkomst_6#geen groei,,,,,,,,Voedingssondeplaatsing
+mesoctransv,,,Switch_ABtype_3#clindamycine,,,,,,,,Voedingssondeplaatsing
+comdem,,,Herstart_ABtype#nitrofurantoïne,,,,,,,,Voedingssondeplaatsing
+component,,,Switch_ABtype_1#clindamycine,,,,,,,,Voedingssondeplaatsing
+onderzoek,,,Herstart_ABtype_3_1_1#cotrimoxazol,,,,,,,,Voedingssondeplaatsing
+Som.Bloeding,,,Kweek_uitkomst_4_1#candida albicans,,,,,,,,Voedingssondeplaatsing
+letselblijvend,,,Kweek_soort_6_1,,,,,,,,Voedingssondeplaatsing
+anasuitw,,,Herstart_ABtype_3_1#cefazoline,,,,,,,,Voedingssondeplaatsing
+commalig,,,Kweek_uitkomst_2#candida glabrata,,,,,,,,Voedingssondeplaatsing
+datcom,,,Kweek_uitkomst_3_1_1#geen groei,,,,,,,,Voedingssondeplaatsing
+chylus2016.y,,,Kweek_uitkomst_7#staphylococcus aureus,,,,,,,,Voedingssondeplaatsing
+gebdat,,,PeriopAB_prolonged_1#cholangitis,,,,,,,,Voedingssondeplaatsing
+stadptpapil2019,,,Kweek_uitkomst_8#citrobacter freundii,,,,,,,,Voedingssondeplaatsing
+laparodat,,,Kweek_uitkomst_6_1_1#klebsiella oxytoca,,,,,,,,Voedingssondeplaatsing
+id,,,Kweek_uitkomst_4_1#serratia marscesens,,,,,,,,Voedingssondeplaatsing
+mcicopname,,,Kweek_uitkomst_7_1_1#hemolytische streptokokken groep B,,,,,,,,Voedingssondeplaatsing
+numlympos,,,Switch_ABtype_2_1#cefuroxim,,,,,,,,Voedingssondeplaatsing
+datont.x,,,Switch_ABtype#meropenem,,,,,,,,Voedingssondeplaatsing
+patient_uri,,,Herstart_ABtype_1_1#augmentin,,,,,,,,Voedingssondeplaatsing
+implementphase.dpca,,,Kweek_uitkomst_7#proteus mirabilis,,,,,,,,Voedingssondeplaatsing
+notPDAC.or.itis,,,Switch_ABtype_3#fluconazol,,,,,,,,Voedingssondeplaatsing
+arthepdexacces,,,AB_herstart_4_1_1,,,,,,,,Voedingssondeplaatsing
+Record.Id,,,Herstart_ABtype_2#augmentin,,,,,,,,Voedingssondeplaatsing
+endpoint.raw.bleed3,,,Kweek_uitkomst_8_1_1#enterococcus faecium,,,,,,,,Voedingssondeplaatsing
+behperdat,,,Kweek_uitkomst_4_1_1#streptococcus anginosus,,,,,,,,Voedingssondeplaatsing
+ecog,,,Date_switch,,,,,,,,Voedingssondeplaatsing
+duplicate.castor,,,Herstart_ABtype_2_1#flucloxacilline,,,,,,,,Voedingssondeplaatsing
+maagontl,,,Kweek_soort_5_1,,,,,,Delayed Gastric Emptying,,Voedingssondeplaatsing
+B1.Plenair.bespreken,,,Kweek_uitkomst_4#citrobacter freundii,,,,,,,,Voedingssondeplaatsing
+cvvh.later,,,Kweek_uitkomst#hafnia alvei,,,,,,,,Voedingssondeplaatsing
+SENSITIVITEITSANALYSE_GEEN_OF_MORTALITEIT,,,Kweek_uitkomst_7_1_1#citrobacter freundii,,,,,,,,Voedingssondeplaatsing
+mdopostop,,,Herstart_ABtype_4_1_1#cefuroxim,,,,,,,,Voedingssondeplaatsing
+verrichting_upn,,,Kweek_soort_4_1,,,,,,,,Voedingssondeplaatsing
+resonbekend,,,Kweek_uitkomst_5_1#proteus mirabilis,,,,,,,,Voedingssondeplaatsing
+draindat,,,Switch_ABtype_1#nitrofurantoïne,,,,,,,,Voedingssondeplaatsing
+verwijsdat,,,Herstart_ABtype#ceftriaxon,,,,,,,,Voedingssondeplaatsing
+B2.Eindpunt.voorkomen.PORSCH,,,PostopAB_type_1_1#anders,,,,,,,,Voedingssondeplaatsing
+vaten,,,Switch_ABtype_4_1#metronidazol,,,,,,,,Voedingssondeplaatsing
+crossover,,,Kweek_uitkomst#candida tropicalis,,,,,,,,Voedingssondeplaatsing
+inotropie,,,Kweek_uitkomst_1#hemolytische streptokokken groep B,,,,,,,,Voedingssondeplaatsing
+ctscan,,,Switch_ABtype_1#vancomycine,,,,,,,,Voedingssondeplaatsing
+eustumor,,,Herstart_ABtype_1#ceftriaxon,,,,,,,,Voedingssondeplaatsing
+status2018,,,Kweek_uitkomst_4_1#staphylococcus aureus,,,,,,,,Voedingssondeplaatsing
+B1.Bloeding,,,Herstart_ABtype_4_1#metronidazol,,,,,,,,Voedingssondeplaatsing
+betramesent,,,Herstart_ABtype_4_1_1#tazocin (pip/tazo),,,,,,,,Voedingssondeplaatsing
+dpcgpic,,,AB_herstart_3_1,,,,,,,,Voedingssondeplaatsing
+bl.angio.later,,,Herstart_ABtype_4#metronidazol,,,,,,,,Voedingssondeplaatsing
+compocclusie,,,Kweek_uitkomst_4_1#candida glabrata,,,,,,,,Voedingssondeplaatsing
+endpoint.raw.noHypotens,,,Kweek_uitkomst_2_1_1#candida glabrata,,,,,,,,Voedingssondeplaatsing
+radmarge,,,Kweek_uitkomst_3_1_1#enterobacter cloacae,,,,,,,,Voedingssondeplaatsing
+Vragen.opmerkingen.B3,,,Kweek_uitkomst_1#staphylococcus aureus,,,,,,,,Voedingssondeplaatsing
+stadptdistaal,,,Kweek_uitkomst_anders_2_1,,,,,,,,Voedingssondeplaatsing
+ipmn,,,Switch_ABtype_3#anders,,,,,,,,Voedingssondeplaatsing
+B2.Plenair.bespreken,,,Switch_ABtype_3_1_1#ciprofloxacine,,,,,,,,Voedingssondeplaatsing
+RESP_FAIL,,,Kweek_uitkomst_7_1#enterococcus faecium,,,,,,,,Voedingssondeplaatsing
+albu,,,Kweek_uitkomst_5_1#streptococcus anginosus,,,,,,,,Voedingssondeplaatsing
+gastrojejuno,,,Herstart_ABtype_4_1#ceftriaxon,,,,,,,,Voedingssondeplaatsing
+compcholangitis,,,Aant_dag_ok_opn_2,,,,,,,Aantal dagen tussen operatie en heropname,Voedingssondeplaatsing
+contactams,,,Kweek_uitkomst_1#serratia marscesens,,,,,,,,Voedingssondeplaatsing
+inotropie.days,,,Kweek_uitkomst_6_1_1#candida glabrata,,,,,,,,Voedingssondeplaatsing
+metalever,,,Kweek_uitkomst_1#candida kefyr,,,,,,,,Voedingssondeplaatsing
+biliodig,,,Kweek_uitkomst_6_1_1#candida kefyr,,,,,,,,Voedingssondeplaatsing
+B2.Respiratoir.falen,,,Kweek_uitkomst_5_1_1#citrobacter freundii,,,,,,,,Voedingssondeplaatsing
+OF.later.HDondersteuning,,,Herstart_ABtype_4#ceftriaxon,,,,,,,,Voedingssondeplaatsing
+BMI,,,Kweek_uitkomst_6_1#candida kefyr,,,,,,,,Voedingssondeplaatsing
+time.since.intervention,,,Kweek_uitkomst_1_1#candida albicans,,,,,,,,Voedingssondeplaatsing
+maag,,,Aanvullingen_1,,,,,,,,Voedingssondeplaatsing
+verwijd,,,Herstart_ABtype_3#ciprofloxacine,,,,,,,,Voedingssondeplaatsing
+typok.dpca,,,Indicatie_herstart_2,,,,,,,,Voedingssondeplaatsing
+B3.Eindpunt.gerel..pancreasfistel,,,Kweek_uitkomst_8_1#geen groei,,,,,,,,Voedingssondeplaatsing
+standaardokverslag,,,PeriopAB_prolonged_other,,,,,,,,Voedingssondeplaatsing
+hypotens.days,,,Kweek_uitkomst_2#proteus mirabilis,,,,,,,,Voedingssondeplaatsing
+time.since.intervention.norm,,,Kweek_uitkomst_2_1_1#hemolytische streptokokken groep B,,,,,,,,Voedingssondeplaatsing
+REN_FAIL,,,PostopAB_type_1#meropenem,,,,,,,,Voedingssondeplaatsing
+procoverig,,,Kweek_uitkomst_4#haemophilus influenzae,,,,,,,,Voedingssondeplaatsing
+origine,,,Kweek_uitkomst_8_1_1#candida kefyr,,,,,,,,Voedingssondeplaatsing
+tachosyl,,,Switch_ABtype#cefazoline,,,,,,,,Voedingssondeplaatsing
+opnameduur.y,,,Perop_bile_results#enterococcus faecalis,,,,,,,,Voedingssondeplaatsing
+comcva,,,Date_herstart_1_1,,,,,,,,Voedingssondeplaatsing
+cvvh.later.onset,,,Kweek_uitkomst_7_1#geen groei,,,,,,,,Voedingssondeplaatsing
+doorgrlokaal,,,Date_switch_3,,,,,,,,Voedingssondeplaatsing
+eus,,,PPH_plaatjesremmers,,,,,,,Gebruik plaatjesremmers,Voedingssondeplaatsing
+B3.Renaal.falen,,,Kweek_uitkomst_2_1_1#enterococcus faecium,,,,,,,,Voedingssondeplaatsing
+weefselpatch,,,Herstart_ABtype_3#cefazoline,,,,,,,,Voedingssondeplaatsing
+orgaanfalen,,,Switch_ABtype_3_1_1#metronidazol,,,,,,,,Voedingssondeplaatsing
+SOF.later.onset,,,Switch_ABtype_2#anders,,,,,,,,Voedingssondeplaatsing
+Aantekeningen.Jasmijn,,,StopAB_switch,,,,,,,,Voedingssondeplaatsing
+bl.angio,,,Date_switch_2_1,,,,,,,,Voedingssondeplaatsing
+inotropie.later,,,Switch_ABtype_2_1#ciprofloxacine,,,,,,,,Voedingssondeplaatsing
+gallek.x,,,Kweek_uitkomst#enterobacter cloacae,,,,,,,,Voedingssondeplaatsing
+Discrepantie.eindpunten,,,PostopAB_type_1#nitrofurantoïne,,,,,,,,Voedingssondeplaatsing
+peripancr,,,Focus_other_1,,,,,,,,Voedingssondeplaatsing
+OF.later,,,Herstart_ABtype_4_1#ciprofloxacine,,,,,,,,Voedingssondeplaatsing
+hemicolr,,,Indicatie_herstart_1_1,,,,,,,,Voedingssondeplaatsing
+comnier,,,Herstart_ABtype_1#vancomycine,,,,,,,,Voedingssondeplaatsing
+B3.Respiratoir.falen,,,Kweek_uitkomst_5#streptococcus anginosus,,,,,,,,Voedingssondeplaatsing
+PD,,,Herstart_ABtype_2_1#metronidazol,,,,,,,,Voedingssondeplaatsing
+kreat.later.onset,,,Periop_AB_1#metronidazol,,,,,,,,Voedingssondeplaatsing
+nasojeju,,,Switch_ABtype_2#amoxicilline,,,,,,,,Voedingssondeplaatsing
+aanvanders,,,Switch_ABtype_3#metronidazol,,,,,,,,Voedingssondeplaatsing
+Institute.Abbreviation,,,Kweek_uitkomst_2_1#klebsiella pneumoniae,,,,,,,,Voedingssondeplaatsing
+intube.later.onset,,,drain_amylase,,,,,,,Drain amylase POD1,Voedingssondeplaatsing
+endpoint.AC,,,Kweek_uitkomst_8#hemolytische streptokokken groep B,,,,,,,,Voedingssondeplaatsing
+hypotens.later,,,Date_herstart_4,,,,,,,,Voedingssondeplaatsing
+comdiaminsu,,,Switch_ABtype_1_1#vancomycine,,,,,,,,Voedingssondeplaatsing
+adjuvant,,,Herstart_ABtype#azitromycine,,,,,,,,Voedingssondeplaatsing
+B1.Circulatoir.falen,,,Periop_AB#anders,,,,,,,,Voedingssondeplaatsing
+wondinfectie,,,Participant Id,,,,,,,,Voedingssondeplaatsing
+duplicate.dpca,,,Kweek_uitkomst_4_1#streptococcus anginosus,,,,,,,,Voedingssondeplaatsing
+Aantekening.HvS,,,PostopAB_focus_1_1,,,,,,,,Voedingssondeplaatsing
+endpoint.raw.mort3,,,Kweek_uitkomst_5#candida glabrata,,,,,,,,Voedingssondeplaatsing
+betrahepati,,,Preop_CRP_1,,,,,,,,Voedingssondeplaatsing
+anasinw,,,Kweek_uitkomst_1#enterococcus faecalis,,,,,,,,Voedingssondeplaatsing
+overhechten,,,Kweek_uitkomst_6_1#pseudomonas auruginosa,,,,,,,,Voedingssondeplaatsing
+Scenario,,,Switch_ABtype_4_1#tazocin (pip/tazo),,,,,,,,Voedingssondeplaatsing
+reinterventie,,,Kweek_uitkomst_8_1_1#streptococcus anginosus,,,,,,,,Voedingssondeplaatsing
+BLOEDING,,,Switch_ABtype_4#nitrofurantoïne,,,,,,,,Voedingssondeplaatsing
+cytdiagnose,,,Date_herstart_2,,,,,,,,Voedingssondeplaatsing
+tumorrest,,,Herstart_ABtype_4_1_1#meropenem,,,,,,,,Voedingssondeplaatsing
+Som.POPF,,,Kweek_uitkomst_7#candida tropicalis,,,,,,,,Voedingssondeplaatsing
+compnabloeding,,,Kweek_uitkomst_3_1#candida glabrata,,,,,,,,Voedingssondeplaatsing
+kreat.later,,,AB_herstart_4_1,,,,,,,,Voedingssondeplaatsing
+CIRC_FAIL,,,Herstart_ABtype_4_1#fluconazol,,,,,,,,Voedingssondeplaatsing
+gewicht,,,Kweek_uitkomst_8#pseudomonas auruginosa,,,,,,,,Voedingssondeplaatsing
+opnameduur.x,,,Kweek_uitkomst_4#candida albicans,,,,,,,,Voedingssondeplaatsing
+site,,,Kweek_uitkomst_1_1#escherichia coli,,,,,,,,Voedingssondeplaatsing
+metalymfkl,,,Herstart_ABtype_3_1#meropenem,,,,,,,,Voedingssondeplaatsing
+mrcp,,,Kweek_uitkomst_3_1#enterococcus faecalis,,,,,,,,Voedingssondeplaatsing
+Som.Resp,,,Date_kweek,,,,,,,,Voedingssondeplaatsing
+drain.y,,,Indicatie_herstart_4_1_1,,,,,,,,Voedingssondeplaatsing
+MOF.later.onset,,,Switch_ABtype_3_1_1#clindamycine,,,,,,,,Voedingssondeplaatsing
+combind,,,Switch_ABtype_3_1#cotrimoxazol,,,,,,,,Voedingssondeplaatsing
+resecart,,,Kweek_uitkomst_3_1_1#haemophilus influenzae,,,,,,,,Voedingssondeplaatsing
+bl.endosc.later,,,Herstart_ABtype_4#amoxicilline,,,,,,,,Voedingssondeplaatsing
+mcneopost,,,Herstart_ABtype_2_1#cotrimoxazol,,,,,,,,Voedingssondeplaatsing
+bl.angio.diagn.later,,,Aant_dag_ok_opn,,,,,,,Aantal dagen tussen operatie en heropname,Voedingssondeplaatsing
+vragen.opermkingen.B2,,,Kweek_uitkomst_1_1#proteus mirabilis,,,,,,,,Voedingssondeplaatsing
+stenoseah,,,Perop_bile_results_1#anders,,,,,,,,Voedingssondeplaatsing
+CT_scan,,,Kweek_uitkomst_7_1#escherichia coli,,,,,,,,Voedingssondeplaatsing
+verrichting_uri,,,Switch_ABtype_4_1#cefazoline,,,,,,,,Voedingssondeplaatsing
+igg4,,,Switch_ABtype_2_1_1#nitrofurantoïne,,,,,,,,Voedingssondeplaatsing
+betrmaag,,,Herstart_ABtype_4_1#amoxicilline,,,,,,,,Voedingssondeplaatsing
+bijnier,,,Herstart_ABtype_4_1#clindamycine,,,,,,,,Voedingssondeplaatsing
+bl.endosc,,,Herstart_ABtype_4_1#azitromycine,,,,,,,,Voedingssondeplaatsing
+mcneo,,,Switch_ABtype_4#tazocin (pip/tazo),,,,,,,,Voedingssondeplaatsing
+contacttc,,,Perop_bile_results_1#proteus mirabilis,,,,,,,,Voedingssondeplaatsing
+ASA.high2,,,Kweek_uitkomst_5_1_1#pseudomonas auruginosa,,,,,,,,Voedingssondeplaatsing
+age.norm,,,Herstart_ABtype_2_1_1#ceftriaxon,,,,,,,,Voedingssondeplaatsing
+comhartfaal,,,Switch_ABtype_2_1#ceftriaxon,,,,,,,,Voedingssondeplaatsing
+inotropie.later.onset,,,Cal_OK_chylus2016,,,,,,,Ligt datum diagnose chylse leak voor de operatiedatum?,Voedingssondeplaatsing
+,,,sandostatine_toediening#preoperatief,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_switch_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_stop_2_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1#geen groei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4_1_1#cefazoline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1#enterococcus faecium,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3#hemolytische streptokokken groep B,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1_1#proteus mirabilis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_soort_3_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1#augmentin,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2#cefazoline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,ABherstart_other_4_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1_1#serratia marscesens,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type#tazocin (pip/tazo),,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3#metronidazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1_1#enterobacter cloacae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_soort_8,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results_1#enterococcus faecalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1#enterococcus faecium,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1_1#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1_1#klebsiella oxytoca,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1_1#enterococcus faecalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4#ciprofloxacine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1_1#enterococcus faecalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1#haemophilus influenzae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1_1#proteus mirabilis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1#enterococcus faecalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Extra_herstart_3,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4_1_1#augmentin,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results_1#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst#candida kefyr,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1_1#metronidazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Extra_herstart_4_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Extra_switch_3_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1_1#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2#metronidazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_herstart_2_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1_1#candida glabrata,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_kweek_5,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2#haemophilus influenzae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Indicatie_herstart_3_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results#serratia marscesens,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Aanvullingen,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1#enterococcus faecalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Postop_AB,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1_1#cefazoline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4#enterococcus faecium,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Periop_AB_1#tazocin (pip/tazo),,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,sandostat_anders,,,,,,Voedingssondeplaatsing,"Anders, namelijk",Voedingssondeplaatsing
+,,,Stop_AB_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_6_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1_1#staphylococcus aureus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1_1#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_stop_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1_1#enterococcus faecalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1#pseudomonas auruginosa,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,ABswitch_other_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1#haemophilus influenzae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_switch_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6#escherichia coli,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1_1#clindamycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1#meropenem,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3#tazocin (pip/tazo),,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_switch_4,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_switch_4,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1#hemolytische streptokokken groep B,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1_1#azitromycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2#pseudomonas auruginosa,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4_1#nitrofurantoïne,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1#proteus mirabilis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Participant Status,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results_1#candida kefyr,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,StopAB_switch_4,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4#clindamycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2#enterococcus faecium,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4#klebsiella oxytoca,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1_1#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype#tazocin (pip/tazo),,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1_1#escherichia coli,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1#klebsiella oxytoca,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1_1#klebsiella oxytoca,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results#enterococcus faecium,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1_1#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4_1_1#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1#clindamycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1_1#geen groei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1#clindamycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Ontslagbrief,,,,,,Voedingssondeplaatsing,Ontslagbrief (copy-paste),Voedingssondeplaatsing
+,,,Kweek_uitkomst_2#staphylococcus aureus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1#klebsiella oxytoca,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1#cefazoline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1_1#enterobacter cloacae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1#candida glabrata,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_afname_2,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7#candida albicans,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,StopAB_switch_3_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Cal_OK_gallek,,,,,,Voedingssondeplaatsing,Ligt datum bile leak voor de operatiedatum?,Voedingssondeplaatsing
+,,,Switch_ABtype_2#ciprofloxacine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,ABswitch_other_2_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1_1#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,reden_heropname_third,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Extra_switch_2_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Clavien_Dindo_IIIb_aantal,,,,,,Voedingssondeplaatsing,Aantal Grade IIIb,Voedingssondeplaatsing
+,,,Herstart_ABtype_2#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_8_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1_1#azitromycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1_1#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1_1#nitrofurantoïne,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1_1#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1#geen groei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_CRP_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,dood_pancreasfistel,,,,,,Voedingssondeplaatsing,Overlijden gerelateerd postoperatieve pancreasfistel,Voedingssondeplaatsing
+,,,Herstart_ABtype#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_2_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1#azitromycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6#citrobacter freundii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PPH_sentinelbleed,,,,,,Voedingssondeplaatsing,Sentinel bleed 6-14 h prior to major bleeding,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1_1#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5#serratia marscesens,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2#nitrofurantoïne,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1_1#ciprofloxacine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1_1#streptococcus anginosus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1#proteus mirabilis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_kweek_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3#candida kefyr,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype#metronidazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Indicatie_herstart_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4#enterococcus faecalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1#meropenem,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1#metronidazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1#candida albicans,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Extra_ABstart_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1#enterobacter cloacae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PPH_origin_bleeding_spec,,,,,,Voedingssondeplaatsing,"Indien ja, dan specificatie source",Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1_1#enterococcus faecalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_herstart,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Postop_AB_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,typechemotherapy,,,,,,Voedingssondeplaatsing,Type of chemotherapy,Voedingssondeplaatsing
+,,,ABswitch_other,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_afname_2_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,neoadjuvant,,,,,,Voedingssondeplaatsing,Neo-adjuvant treatment,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1#candida glabrata,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3#amoxicilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,ABherstart_other_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1#augmentin,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1#streptococcus anginosus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1_1#meropenem,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results#haemophilus influenzae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2#enterobacter cloacae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_stop_2,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1_1#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1_1#metronidazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,ABherstart_other_4,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results#citrobacter freundii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Extra_switch_4_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_afname_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1_1#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1_1#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Indication_AB_2,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1_1#amoxicilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1#escherichia coli,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1_1#candida albicans,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1_1#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_3_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1_1#proteus mirabilis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1#candida albicans,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3#cefazoline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1#pseudomonas auruginosa,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Clavien_Dindo_IVb_aantal,,,,,,Voedingssondeplaatsing,Aantal Grade IVb,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7#escherichia coli,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1#amoxicilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1#staphylococcus aureus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1_1#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1_1#augmentin,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Indicatie_herstart_3_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PeriopAB_prolonged_YN,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1#augmentin,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_soort_2_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2#augmentin,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype#cefazoline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3#haemophilus influenzae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4#hemolytische streptokokken groep B,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1#ceftriaxon,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results_1#klebsiella oxytoca,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3#enterobacter cloacae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1_1#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_switch_3_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1#streptococcus anginosus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4#cefazoline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3#augmentin,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,ABherstart_other_3,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Indication_switch_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1#proteus mirabilis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1_1#klebsiella oxytoca,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results#pseudomonas auruginosa,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1#amoxicilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1#escherichia coli,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1_1#cefazoline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_herstart_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1_1#cefazoline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,cal_wel_geen_PPH,,,,,,Voedingssondeplaatsing,Calculatie wel of geen PPH,Voedingssondeplaatsing
+,,,Herstart_ABtype_1_1#tazocin (pip/tazo),,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results#candida albicans,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1_1#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Indicatie_herstart_4,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_herstart_2,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_4_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_soort_4,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5#geen groei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1#augmentin,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,heropn_ontslagdatum_2,,,,,,Voedingssondeplaatsing,3e Readmission discharge date,Voedingssondeplaatsing
+,,,Perop_bile_results#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1#enterobacter cloacae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_soort_5_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Antibiotics_YN,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3#meropenem,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1_1#streptococcus anginosus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1#escherichia coli,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1_1#geen groei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6#candida glabrata,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,ABswitch_other_3,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1#amoxicilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PeriopAB_other_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results#staphylococcus aureus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Cal_OK_fistel2016,,,,,,Voedingssondeplaatsing,Ligt datum pancreatic fistel voor de operatiedatum?,Voedingssondeplaatsing
+,,,Switch_ABtype_3#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1#candida glabrata,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1_1#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,ABherstart_other_3_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6#klebsiella oxytoca,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Aant_dag_ok_opn_1,,,,,,Voedingssondeplaatsing,Aantal dagen tussen operatie en heropname,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1_1#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Indication_switch_4,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results#candida kefyr,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7#geen groei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4#serratia marscesens,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1#clindamycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1#metronidazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1_1#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1_1#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5#citrobacter freundii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3#proteus mirabilis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3#staphylococcus aureus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1_1#ceftriaxon,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype#nitrofurantoïne,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1_1#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1#candida glabrata,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_stop_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1#haemophilus influenzae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1#augmentin,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1_1#klebsiella oxytoca,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results#candida glabrata,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1#enterobacter cloacae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1#metronidazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_soort_3_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2#clindamycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1_1#enterobacter cloacae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Clavien_Dindo_IIIa_aantal,,,,,,Voedingssondeplaatsing,Aantal Grade IIIa,Voedingssondeplaatsing
+,,,AB_P4_indication,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8#proteus mirabilis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1_1#haemophilus influenzae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Extra_herstart,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_kweek_6_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,StopAB_switch_4_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_switch_4_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PPH_origin_bleeding,,,,,,Voedingssondeplaatsing,Origin bleeding identifed,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1_1#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst#streptococcus anginosus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1#citrobacter freundii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1#candida albicans,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1#staphylococcus aureus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Extra_switch,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results_1#candida albicans,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3#tazocin (pip/tazo),,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,heropn3_ontslagbrief,,,,,,Voedingssondeplaatsing,Ontslagbrief 3e heropname,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1#nitrofurantoïne,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2#azitromycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Periop_AB#levofloxacine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results#escherichia coli,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1_1#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4_1_1#azitromycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1#ciprofloxacine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7#candida kefyr,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1_1#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,neoadj_treatment_other,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_soort_2_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3#clindamycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_2,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_8_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2#tazocin (pip/tazo),,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1#klebsiella oxytoca,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1_1#haemophilus influenzae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Clavien_dindo_I_aantal,,,,,,Voedingssondeplaatsing,Aantal Grade I,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5#staphylococcus aureus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_kweek_4_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_herstart_3_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Cal_OK_acute_pancreatitis,,,,,,Voedingssondeplaatsing,Ligt datum diagnose acute pancreatitis voor de operatiedatum?,Voedingssondeplaatsing
+,,,Extra_switch_2_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1_1#haemophilus influenzae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1_1#citrobacter freundii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2#hemolytische streptokokken groep B,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Aanvullingen_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_soort_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Cal_opn_ont_heropname_1,,,,,,Voedingssondeplaatsing,Ligt ontslagdatum heropname voor datum heropname?,Voedingssondeplaatsing
+,,,Date_kweek_7,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_7_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2#clindamycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5#pseudomonas auruginosa,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_kweek_4_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Value_CRP_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1_1#citrobacter freundii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1_1#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Extra_switch_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8#escherichia coli,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7#serratia marscesens,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_kweek_4,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_herstart_4_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Focus_other_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1_1#meropenem,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1#ciprofloxacine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1_1#ciprofloxacine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1_1#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_herstart_3_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6#staphylococcus aureus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1#augmentin,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4_1#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5#hemolytische streptokokken groep B,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_herstart_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst#escherichia coli,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst#candida glabrata,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PeriopAB_prolonged,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results_1#streptococcus anginosus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PPH_anticoagulantia,,,,,,Voedingssondeplaatsing,Gebruik anticoagulantia,Voedingssondeplaatsing
+,,,Prolonged_AB_stop,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Focus_indicatie2_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1_1#ciprofloxacine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_6_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1#candida kefyr,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_stop_2_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Indication_switch_3_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_P2_start,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6#serratia marscesens,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1_1#enterococcus faecium,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1_1#ceftriaxon,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1#haemophilus influenzae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1#enterobacter cloacae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1_1#geen groei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_herstart_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6#enterococcus faecium,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6#candida kefyr,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_soort,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results_1#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,StopAB_switch_3_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,serum_amylase,,,,,,Voedingssondeplaatsing,Serum amylase POD1,Voedingssondeplaatsing
+,,,Switch_ABtype_2#cefazoline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1_1#geen groei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_switch_3_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1_1#ciprofloxacine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_soort_8_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1#nitrofurantoïne,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,fistel2016,,,,,,Voedingssondeplaatsing,Postoperative pancreatic fistula,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1#ciprofloxacine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_3_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1_1#proteus mirabilis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4_1#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_kweek_3_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_5_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7#enterococcus faecalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype#augmentin,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1#tazocin (pip/tazo),,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2#candida kefyr,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1_1#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Start_AB_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PeriopAB_other,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1_1#enterococcus faecalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1_1#azitromycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4#proteus mirabilis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4#clindamycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PPH_transfusionnumber,,,,,,Voedingssondeplaatsing,Number of blood transfusions,Voedingssondeplaatsing
+,,,PostopAB_type_1#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_stop_4_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1_1#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1_1#streptococcus anginosus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_herstart_3,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1_1#serratia marscesens,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1_1#hemolytische streptokokken groep B,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4#amoxicilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3#enterococcus faecium,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PPH_hemodyn_instabiel,,,,,,Voedingssondeplaatsing,Hemodynamisch instabiel bij presentatie,Voedingssondeplaatsing
+,,,Switch_ABtype_1#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3#azitromycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1_1#clindamycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4#ciprofloxacine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6#proteus mirabilis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1_1#streptococcus anginosus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1_1#candida kefyr,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_P5_stop,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type#azitromycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1_1#clindamycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1#azitromycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1_1#enterococcus faecium,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2#ceftriaxon,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1#streptococcus anginosus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7#enterococcus faecium,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1#ciprofloxacine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1_1#clindamycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results_1#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1_1#tazocin (pip/tazo),,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1#tazocin (pip/tazo),,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1#enterococcus faecium,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_herstart_2_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Indication_switch_2,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Extra_ABstart_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1_1#staphylococcus aureus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1_1#pseudomonas auruginosa,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_kweek_3,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1_1#haemophilus influenzae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1_1#meropenem,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_kweek_2_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1_1#pseudomonas auruginosa,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Cal_opn_ont_heropname_2,,,,,,Voedingssondeplaatsing,Ligt ontslagdatum heropname voor datum heropname?,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1#enterococcus faecium,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_afname_3_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results_1#citrobacter freundii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1#metronidazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1_1#serratia marscesens,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1#hemolytische streptokokken groep B,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_afname_4_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1_1#pseudomonas auruginosa,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype#meropenem,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_4_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_afname_3_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1#enterococcus faecalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1_1#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_afname_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6#candida albicans,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1#haemophilus influenzae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_soort_6_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype#amoxicilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1_1#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Start_AB_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1#geen groei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1_1#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1#candida kefyr,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Indication_switch_4_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1#serratia marscesens,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,heropn_ontslagdatum,,,,,,Voedingssondeplaatsing,1e Readmission discharge date,Voedingssondeplaatsing
+,,,Date_herstart,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1_1#serratia marscesens,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,heropndatum_1,,,,,,Voedingssondeplaatsing,2e Readmission admission date,Voedingssondeplaatsing
+,,,AB_P2_stop,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1_1#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1#azitromycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1_1#proteus mirabilis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1_1#nitrofurantoïne,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,StopAB_switch_2_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1_1#hemolytische streptokokken groep B,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3#candida glabrata,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_switch_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_switch_2_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1_1#staphylococcus aureus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1_1#hemolytische streptokokken groep B,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1#streptococcus anginosus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1_1#candida glabrata,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1_1#candida glabrata,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1_1#augmentin,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2#ceftriaxon,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1_1#pseudomonas auruginosa,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1#geen groei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_soort_7_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1#enterobacter cloacae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1_1#citrobacter freundii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3#geen groei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1#enterococcus faecium,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1_1#serratia marscesens,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1_1#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Clavien_Dindo_IVa_aantal,,,,,,Voedingssondeplaatsing,Aantal Grade IVa,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_7,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1_1#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6#haemophilus influenzae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3#enterococcus faecalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Opmerkingen,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1_1#klebsiella oxytoca,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1_1#enterobacter cloacae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1#metronidazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1_1#ceftriaxon,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1#tazocin (pip/tazo),,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1_1#escherichia coli,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_5,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1_1#meropenem,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_afname_4_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype#ceftriaxon,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Cal_opn_ont_heropname,,,,,,Voedingssondeplaatsing,Ligt ontslagdatum heropname voor datum heropname?,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3#streptococcus anginosus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1_1#enterococcus faecium,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1_1#enterobacter cloacae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Extra_herstart_3_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1_1#clindamycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_kweek_2,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1#ciprofloxacine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1_1#candida albicans,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Indication_switch,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1#meropenem,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1#citrobacter freundii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7#klebsiella oxytoca,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1_1#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1#enterococcus faecalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1_1#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype#metronidazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,ABswitch_other_2_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results_1#candida glabrata,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1#cefazoline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1_1#amoxicilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1_1#metronidazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1#enterobacter cloacae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1_1#nitrofurantoïne,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1_1#candida glabrata,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Extra_herstart_4,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_kweek_8,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Indication_switch_3_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4_1_1#amoxicilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype#augmentin,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Bileculture_resistance,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_herstart_2_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_soort_4_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4#meropenem,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,ABherstart_other_3_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5#klebsiella oxytoca,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,IC_brief,,,,,,Voedingssondeplaatsing,IC ontslagbrief (copy-paste),Voedingssondeplaatsing
+,,,Kweek_uitkomst_8#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_stop_3_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1_1#tazocin (pip/tazo),,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2#meropenem,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_8,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1_1#metronidazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_P5_indication,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1_1#candida kefyr,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1#ceftriaxon,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3#amoxicilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_P4_start,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Periop_AB_1#cefazoline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_indication#Verhoogde infectieparameters,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1#citrobacter freundii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_kweek_5_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1_1#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_P1_indication_other,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4#azitromycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Value_CRP,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1#hemolytische streptokokken groep B,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,StopAB_switch_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2#amoxicilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results_1#escherichia coli,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Periop_AB#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_other,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1_1#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1_1#escherichia coli,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_soort_8_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1#pseudomonas auruginosa,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,heropn_ontslagdatum_1,,,,,,Voedingssondeplaatsing,2e Readmission discharge date,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1_1#staphylococcus aureus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1#enterobacter cloacae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1#amoxicilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Extra_herstart_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_P2_indication,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_P1_stop,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1_1#clindamycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1#haemophilus influenzae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5#candida kefyr,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1_1#enterococcus faecalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1_1#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1#candida glabrata,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Periop_AB#tazocin (pip/tazo),,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1#serratia marscesens,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1_1#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PPH_first_presentation,,,,,,Voedingssondeplaatsing,Initial presentation,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1_1#meropenem,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,ABswitch_other_4_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1_1#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1#serratia marscesens,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1_1#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,datovl,,,,,,Voedingssondeplaatsing,Datum van overlijden,Voedingssondeplaatsing
+,,,Switch_ABtype_4#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2#metronidazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2#enterococcus faecalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_switch_3_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1_1#ceftriaxon,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5#enterococcus faecalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1_1#candida albicans,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1#clindamycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1_1#citrobacter freundii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1#amoxicilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,drain,,,,,,Voedingssondeplaatsing,Zijn er peroperatief intra-abdominale drains achtergelaten?,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1_1#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1_1#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_afname_4,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1_1#candida glabrata,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4#nitrofurantoïne,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7#enterobacter cloacae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3#nitrofurantoïne,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_afname_3,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1#meropenem,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1_1#candida kefyr,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results#enterobacter cloacae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_switch_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst#citrobacter freundii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2#candida albicans,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1#candida kefyr,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Indication_AB_2_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1_1#streptococcus anginosus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results#klebsiella oxytoca,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1_1#metronidazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4_1_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1_1#staphylococcus aureus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1#enterococcus faecalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_P3_start,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_soort_6,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1_1#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1_1#serratia marscesens,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8#candida glabrata,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4#enterobacter cloacae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1#clindamycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1_1#candida glabrata,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_switch_2_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1_1#escherichia coli,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1_1#azitromycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3#citrobacter freundii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Indication_switch_2_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Postoperative_culture,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1_1#candida albicans,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,ICUstay,,,,,,Voedingssondeplaatsing,Length of ICU stay,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Participant Creation Date,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2#geen groei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1#nitrofurantoïne,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7#streptococcus anginosus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4#geen groei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7#citrobacter freundii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst#serratia marscesens,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1_1#geen groei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_switch_4_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1_1#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4#ceftriaxon,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,StopAB_switch_3,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1_1#escherichia coli,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_P3_stop,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Indicatie_herstart_4_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1_1#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4#meropenem,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3#azitromycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4#pseudomonas auruginosa,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1_1#meropenem,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1#azitromycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2#streptococcus anginosus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1#nitrofurantoïne,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_focus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Periop_AB_1#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,heropndatum_2,,,,,,Voedingssondeplaatsing,3e Readmission admission date,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1_1#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1_1#meropenem,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5#enterococcus faecium,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Extra_switch_4_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1_1#enterococcus faecium,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results#proteus mirabilis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4_1#meropenem,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4#streptococcus anginosus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_indication#Verlengd postoperatief,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1_1#ciprofloxacine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1_1#augmentin,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1#tazocin (pip/tazo),,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type#metronidazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results_1#serratia marscesens,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Focus_other,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1_1#augmentin,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1_1#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4#cefazoline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst#pseudomonas auruginosa,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,OK_verslag,,,,,,Voedingssondeplaatsing,OK verslag (copy-paste),Voedingssondeplaatsing
+,,,PostopAB_type_1#ceftriaxon,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_other_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1_1#candida albicans,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1_1#ceftriaxon,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype#azitromycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1#streptococcus anginosus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type#cefazoline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1_1#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Extra_herstart_2,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_soort_5,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6#pseudomonas auruginosa,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1_1#enterococcus faecalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1#meropenem,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3#augmentin,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1#citrobacter freundii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_P2_indication_other,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Periop_AB#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1#haemophilus influenzae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype#ciprofloxacine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_switch_2_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1_1#candida kefyr,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,reden_heropname_second,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4_1#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1_1#citrobacter freundii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1_1#clindamycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1#tazocin (pip/tazo),,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4_1#augmentin,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1_1#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1#citrobacter freundii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1#candida albicans,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Extra_herstart_4_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst#staphylococcus aureus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1_1#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results_1#staphylococcus aureus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1#serratia marscesens,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1#proteus mirabilis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4#candida kefyr,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype#amoxicilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results_1#pseudomonas auruginosa,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PeriopAB_prolonged_1#other,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1_1#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Start_AB,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2#azitromycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4_1_1#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1_1#serratia marscesens,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1#pseudomonas auruginosa,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8#staphylococcus aureus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_CRP,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1#augmentin,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1_1#candida albicans,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Periop_AB_1#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,ABherstart_other_2_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_P3_indication,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3#ciprofloxacine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4_1_1#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1#pseudomonas auruginosa,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,neoadjuvant_chemo,,,,,,Voedingssondeplaatsing,Indien chemotherapie of chemoradiotherapie; type chemotherapie,Voedingssondeplaatsing
+,,,Kweek_uitkomst#enterococcus faecium,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Cal_OK_GElek,,,,,,Voedingssondeplaatsing,Ligt datum diagnose GE leak voor de operatiedatum?,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6#hemolytische streptokokken groep B,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1_1#cefazoline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Periop_AB_1#levofloxacine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1#tazocin (pip/tazo),,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1_1#tazocin (pip/tazo),,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1_1#enterococcus faecium,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1#azitromycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1_1#azitromycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2#escherichia coli,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1_1#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_P4_indication_other,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results_1#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3#klebsiella oxytoca,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8#serratia marscesens,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1#candida glabrata,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1_1#ceftriaxon,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1_1#pseudomonas auruginosa,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_soort_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results_1#geen groei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_herstart_4_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1_1#geen groei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1_1#nitrofurantoïne,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4#candida glabrata,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Extra_herstart_3_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1#escherichia coli,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Clavien_Dindo_II_aantal,,,,,,Voedingssondeplaatsing,Aantal Grade II,Voedingssondeplaatsing
+,,,StopAB_switch_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results_1#enterobacter cloacae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,ABswitch_other_2,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_kweek_7_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,ABherstart_other_4_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1_1#ceftriaxon,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1_1#amoxicilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1_1#augmentin,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1_1#tazocin (pip/tazo),,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1#citrobacter freundii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_4,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6#streptococcus anginosus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1_1#haemophilus influenzae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1_1#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1_1#augmentin,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,typechemothanders,,,,,,Voedingssondeplaatsing,"Anders, namelijk",Voedingssondeplaatsing
+,,,Kweek_uitkomst_8#klebsiella oxytoca,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_switch_2,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1_1#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1_1#escherichia coli,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1_1#nitrofurantoïne,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1_1#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2#klebsiella oxytoca,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1#cefazoline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1_1#amoxicilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_soort_7,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1_1#candida kefyr,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1_1#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1#ceftriaxon,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1_1#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1#enterococcus faecium,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Extra_switch_3,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_4#tazocin (pip/tazo),,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1#klebsiella oxytoca,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3_1_1#hemolytische streptokokken groep B,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype#clindamycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1#cefazoline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_7_1#hemolytische streptokokken groep B,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Preop_CRP,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,SELECTION_error_test,,,,,,Voedingssondeplaatsing,Verkeerd ingevoerd variabele op deze pagina of test case?,Voedingssondeplaatsing
+,,,Indication_switch_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Indicatie_herstart_2_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Stop_AB,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1_1#candida albicans,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1#streptococcus anginosus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1_1#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1#morganella morganii,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_7_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_switch_3,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1#pseudomonas auruginosa,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PeriopAB_prolonged_1#onbekend,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,ABherstart_other_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1#cefazoline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1#vancomycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1#staphylococcus aureus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Extra_herstart_2_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_P3_indication_other,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_kweek_3_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_3#pseudomonas auruginosa,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_P5_start,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,ABherstart_other,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1#cefazoline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1#azitromycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_5_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1_1#candida kefyr,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_stop_4_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8#streptococcus anginosus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1_1#tazocin (pip/tazo),,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8#candida albicans,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_focus_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1_1#haemophilus influenzae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1_1#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,reden_heropname_first,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6_1_1#staphylococcus aureus,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1_1#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst#hemolytische streptokokken groep B,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1_1#anders,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1_1#nitrofurantoïne,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1_1#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst#klebsiella oxytoca,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1#candida kefyr,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4#escherichia coli,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5#haemophilus influenzae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_2_1#nitrofurantoïne,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_2_1_1#cefuroxim,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_kweek_8_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1_1#hemolytische streptokokken groep B,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_1#ciprofloxacine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,ABherstart_other_2_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_1#proteus mirabilis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_4_1_1#amoxicilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5_1#hafnia alvei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Date_kweek_6,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1#enterococcus faecalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1_1#cotrimoxazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_herstart_3,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3#ceftriaxon,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3#ceftriaxon,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5#enterobacter cloacae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Indicatie_herstart,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1_1#metronidazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_switch_4_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_6#enterococcus faecalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type#gentamicine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,StopAB_switch_2_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Perop_bile_results#geen groei,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype#flucloxacilline,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,AB_switch_4_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_5#candida tropicalis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_8_1_1#pseudomonas auruginosa,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PPH_first_source_finding,,,,,,Voedingssondeplaatsing,First step in source finding,Voedingssondeplaatsing
+,,,Kweek_uitkomst_anders_3,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,PostopAB_type_1_1#ciprofloxacine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,ABswitch_other_3_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,ABswitch_other_1_1,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_2_1#escherichia coli,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Switch_ABtype_3_1#azitromycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1_1#klebsiella pneumoniae,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_3_1#clindamycine,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst#proteus mirabilis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Herstart_ABtype_1_1#fluconazol,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
+,,,Kweek_uitkomst_4_1_1#proteus mirabilis,,,,,,Voedingssondeplaatsing,,Voedingssondeplaatsing
